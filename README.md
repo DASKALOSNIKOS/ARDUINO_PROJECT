@@ -106,6 +106,13 @@ This project is provided for educational purposes.
 
 ---
 
+## 🎥 Demo Video
+
+A short demonstration of the robot’s autonomous obstacle avoidance behavior is available here:
+
+▶️ youtube.com/watch?v=SBTemglAMME&feature=youtu.be
+
+
 ## 👤 Author
 
 NIKOLAOS DASKALOS  
